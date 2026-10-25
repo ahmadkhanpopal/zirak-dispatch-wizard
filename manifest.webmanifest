@@ -1,0 +1,26 @@
+{
+  "name": "ZIRAK Dispatch Call Wizard V3.1 \u2014 Pamir Dry Van Speaking Coach",
+  "short_name": "ZIRAK Dispatch",
+  "description": "Beginner and professional English practice, reconstructed historical dispatch cases, voice teacher feedback, and manually shared WhatsApp class reports.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09121d",
+  "theme_color": "#09121d",
+  "lang": "en-US",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
